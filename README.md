@@ -1,5 +1,7 @@
 # EMQX Migration Skills for ConnectMQ
 
+<p align="center"><img src="assets/cover.jpg" alt="EMQX to ConnectMQ migration skills for AI agents" width="820"></p>
+
 **AI agent skills for planning and executing a migration from EMQX (4.x, 5.x, EMQX Cloud) to the [ConnectMQ](https://connectmq.com/?utm_source=github&utm_medium=readme&utm_campaign=migration-skills&utm_content=emqx) managed MQTT broker.**
 
 Give your AI coding agent (Claude Code, Claude.ai, or any agent that reads `SKILL.md` skills) the knowledge and the
