@@ -1,0 +1,16 @@
+{
+  "name": "connectmq-emqx-migration",
+  "description": "ConnectMQ skills for migrating from EMQX to the ConnectMQ MQTT broker",
+  "owner": {
+    "name": "ConnectMQ",
+    "url": "https://connectmq.com"
+  },
+  "plugins": [
+    {
+      "name": "emqx-migration-skills",
+      "source": "./",
+      "description": "Plan and execute a migration from EMQX to the ConnectMQ managed MQTT broker.",
+      "version": "1.0.0"
+    }
+  ]
+}

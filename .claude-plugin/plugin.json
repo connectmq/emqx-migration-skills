@@ -1,0 +1,13 @@
+{
+  "name": "emqx-migration-skills",
+  "version": "1.0.0",
+  "description": "Plan and execute a migration from EMQX (4.x, 5.x, EMQX Cloud) to the ConnectMQ managed MQTT broker: config audit, acl.conf and built-in database ACL conversion, rule-engine replacement, client ID mapping, bridge setup, waves and rollback.",
+  "author": {
+    "name": "ConnectMQ",
+    "url": "https://connectmq.com"
+  },
+  "homepage": "https://github.com/connectmq/emqx-migration-skills",
+  "repository": "https://github.com/connectmq/emqx-migration-skills",
+  "license": "MIT",
+  "keywords": ["mqtt", "emqx", "migration", "connectmq", "mqtt-broker", "iot", "skills"]
+}
